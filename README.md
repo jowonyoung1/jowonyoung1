@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20My%20Profile&fontSize=60&textColor=ffffff" />
 
 <div align="flex-start">
-  <h3>Hello, I'm Wonyoung👋</h3>
+  <h2>Hello, I'm Wonyoung👋</h2>
   <div>👀 끊임없는 탐구와 학습을 통해 기술의 깊이를 더해가는 개발자입니다.</div>
   <div>😲 현재 구직중입니다. </div>
   <div>💗 저는 주로 React를 이용한 프로젝트를 즐겨합니다. </div>
@@ -15,7 +15,7 @@
 <hr style="border: 1px solid #e0e0e0; margin: 30px 0;">
 
 <!--내용 부분-->
-<h4 align="flex-start">✨ Tech Stack ✨</h4>
+<h3 align="flex-start">✨ Tech Stack ✨</h3>
 <div align="flex-start">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
@@ -33,7 +33,7 @@
 
 <br>
 
-<h4 align="flex-start">🛠 Tools 🛠</h4>
+<h3 align="flex-start">🛠 Tools 🛠</h3>
 <div align="flex-start">
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -45,14 +45,14 @@
 <hr style="border: 1px solid #e0e0e0; margin: 30px 0;">
 
 <div align="flex-start">
-<h4 align="flex-start">📈 언어 사용량 통계</h4>
+<h3 align="flex-start">📈 언어 사용량 통계</h3>
   <!-- Top Languages Card -->
   <a href="https://github.com/jowonyoung1/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jowonyoung1&layout=compact" />
   </a>
 
 <div align="flex-start">
-<h4 align="flex-start">📈 GitHub 통계</h4>
+<h3 align="flex-start">📈 GitHub 통계</h3>
   <a href="https://github.com/jowonyoung1/github-readme-stats" >
     <img src="https://github-readme-stats.vercel.app/api?username=jowonyoung1&show_icons=true&theme=white" />
   </a>
