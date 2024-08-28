@@ -1,8 +1,12 @@
-<div>
-<div style="display: flex; justify-content: flex-end;">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjowonyoung1%2Fhit-counter&count_bg=%23FCB3B3&title_bg=%237A7A7A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
-</div>
+<table style="width:100%">
+  <tr>
+    <td align="right">
+      <a href="https://hits.seeyoufarm.com">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjowonyoung1%2Fhit-counter&count_bg=%23FCB3B3&title_bg=%237A7A7A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20My%20Profile&fontSize=60&textColor=ffffff" />
 
