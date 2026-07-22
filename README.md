@@ -1,6 +1,6 @@
 # Wonyoung
 
-#### Frontend Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6E7681&vCenter=true&width=480&height=40&lines=Frontend+Developer;Writing+clean%2C+maintainable+code" alt="Frontend Developer" />
 
 사용자 경험과 문제 해결에 집중하는 프론트엔드 개발자입니다.<br/>
 꾸준한 학습과 협업으로 팀과 함께 성장하는 것을 지향합니다.
