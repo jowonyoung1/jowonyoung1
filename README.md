@@ -9,17 +9,11 @@
 
 📩 &nbsp; jwy7254@gmail.com
 
-<br/>
-
 ---
-
-<br/>
 
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,mui,tailwind,git,github,docker,figma,vscode&theme=light" alt="tech stack" />
-
-<br/>
 
 `Zustand` &nbsp;`TanStack Query` &nbsp;`React Hook Form` &nbsp;`Zod` &nbsp;`Emotion` &nbsp;`Axios`
 
@@ -29,11 +23,7 @@
 | **State & Data** | Zustand · TanStack Query · React Hook Form · Zod |
 | **Styling**      | MUI · Emotion · Tailwind CSS                     |
 
-<br/>
-
 ---
-
-<br/>
 
 ### Currently
 
