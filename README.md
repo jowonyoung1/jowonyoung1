@@ -19,4 +19,4 @@
 
 ---
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jowonyoung1&layout=compact&hide_border=true&hide_title=true&theme=graywhite&bg_color=00000000" alt="top languages" />
+<img height="150" src="https://github-readme-stats-delta-seven-88.vercel.app/api/top-langs/?username=jowonyoung1&layout=compact&hide_border=true&hide_title=true&theme=graywhite&bg_color=00000000" alt="top languages" />
