@@ -7,7 +7,7 @@
 
 `React` · `Next.js` · `TypeScript`
 
----
+<br/>
 
 ## Tech Stack
 
@@ -21,7 +21,7 @@
   <tr><td><b>Styling</b></td><td>MUI · Emotion · Tailwind CSS</td></tr>
 </table>
 
----
+<br/>
 
 ## Currently
 
